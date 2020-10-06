@@ -1,4 +1,4 @@
-#
+# Faça um programa que leia um numero inteiro e em seguida mostre sua tabuada.
 
 numero = int(input('Digite um número para ver sua tabuada: '))
 
